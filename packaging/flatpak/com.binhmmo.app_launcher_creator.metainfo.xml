@@ -29,13 +29,13 @@
   <screenshots>
     <screenshot type="default">
       <caption>Main application interface for creating .desktop launchers</caption>
-      <image>https://raw.githubusercontent.com/binhmmo/app_launcher_creator/main/assets/screenshots/main_window.png</image>
+      <image>https://raw.githubusercontent.com/yaibait/Linux-Desktop-Entry-Creator/main/assets/screenshots/main_window.png</image>
     </screenshot>
   </screenshots>
 
-  <url type="homepage">https://github.com/binhmmo/app_launcher_creator</url>
-  <url type="bugtracker">https://github.com/binhmmo/app_launcher_creator/issues</url>
-  <url type="vcs-browser">https://github.com/binhmmo/app_launcher_creator</url>
+  <url type="homepage">https://github.com/yaibait/Linux-Desktop-Entry-Creator</url>
+  <url type="bugtracker">https://github.com/yaibait/Linux-Desktop-Entry-Creator/issues</url>
+  <url type="vcs-browser">https://github.com/yaibait/Linux-Desktop-Entry-Creator</url>
 
   <categories>
     <category>Utility</category>

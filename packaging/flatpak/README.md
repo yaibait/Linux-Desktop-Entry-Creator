@@ -18,7 +18,7 @@ This directory contains all the required metadata and manifest files to package 
 ### Step 1: Create a GitHub Release
 1. Push your code to your GitHub repository:
    ```bash
-   git remote add origin https://github.com/binhmmo/app_launcher_creator.git
+   git remote add origin https://github.com/yaibait/Linux-Desktop-Entry-Creator.git
    git push -u origin main
    ```
 2. On GitHub, navigate to **Releases** -> **Draft a new release**.
